@@ -42,6 +42,7 @@
     };
     firebase.initializeApp(firebaseConfig);
 </script>
+
 <script type="text/javascript">
     window.onload = function () {
         render();
